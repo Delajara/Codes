@@ -1,3 +1,12 @@
+"""
+I have created a program where the teacher will put:
+-their students with their respective grades
+-the positives or negatives they have (which will be defined what they add or subtract later)
+-the average will be calculated along with the positive/negative
+-rounded off (in case of being close to passing)
+-finally the passes will be displayed on the screen.
+"""
+
 #IMPORT
 import numpy as np
 
