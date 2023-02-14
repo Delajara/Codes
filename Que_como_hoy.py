@@ -1,3 +1,33 @@
+"""
+I have created a program that helps you to know what to do for lunch.
+For all those people who don't want to think about what to make for lunch, here it comes: 
+What do I eat today?
+
+The user will be able to:
+    -Create/remove a list of meals.
+    -Add/remove meals.
+    -Choose to use a pre-made list.
+    -Decide what to eat today randomly.
+    -Create/remove users.
+
+The program will choose a meal from the list and show it to the user.
+#----------------------------------------------------------------------------------
+He creado  un programa que ayuda a saber que hacer de comer.
+Para todas esas personas que no quieren pensar en qué pueden hacer de comer, llega: 
+¿Qué como hoy?
+
+El usuario podrá:
+    -Crear/eliminar una lista de comidas.
+    -Añadir/eliminar comidas.
+    -Optar por usar una lista prefabricada.
+    -Decidir que comer hoy de forma aleatoria
+    -Crear/eliminar usuarios.
+
+El programa elegirá una comida de la lista y la mostrará al usuario.
+
+"""
+
+#--------------------
 import random as rd
 import os.path as path
 from os import remove
